@@ -1,3 +1,3 @@
-# edelnurintan-Diabetes-Clasification-with-R-Programming
+# Diabetes-Clasification-with-R-Programming
 
 This project aims to predict whether an individual is at risk of diabetes using Principal Component Analysis (PCA) for dimensionality reduction and Logistic Regression for classification. The model uses key features such as Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, and the outcome variable Outcome (1 = diabetic, 0 = non-diabetic). PCA is applied to reduce the number of features while retaining the essential information, followed by logistic regression to classify individuals based on their health data, ultimately aiding in early detection and prevention of diabetes.
